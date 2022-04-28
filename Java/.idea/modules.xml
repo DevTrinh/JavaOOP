@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTap/BaiTap.iml" filepath="$PROJECT_DIR$/BaiTap/BaiTap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapThayCong/BaiTapThayCong.iml" filepath="$PROJECT_DIR$/BaiTapThayCong/BaiTapThayCong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuanLy/QuanLy.iml" filepath="$PROJECT_DIR$/QuanLy/QuanLy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap/QuanLyTaiKhoan.iml" filepath="$PROJECT_DIR$/BaiTap/QuanLyTaiKhoan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TInhKeThua/TInhKeThua.iml" filepath="$PROJECT_DIR$/TInhKeThua/TInhKeThua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinhDaHinh/TinhDaHinh.iml" filepath="$PROJECT_DIR$/TinhDaHinh/TinhDaHinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinhDongGoi/TinhDongGoi.iml" filepath="$PROJECT_DIR$/TinhDongGoi/TinhDongGoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinhTruuTuong/TinhTruuTuong.iml" filepath="$PROJECT_DIR$/TinhTruuTuong/TinhTruuTuong.iml" />
+    </modules>
+  </component>
+</project>

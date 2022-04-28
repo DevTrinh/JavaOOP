@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" filepath="$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example/Example.iml" filepath="$PROJECT_DIR$/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOop3.iml" filepath="$PROJECT_DIR$/JavaOop3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinhVien/SinhVien.iml" filepath="$PROJECT_DIR$/SinhVien/SinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableStaticAndFuntionStatic/VariableStaticAndFuntionStatic.iml" filepath="$PROJECT_DIR$/VariableStaticAndFuntionStatic/VariableStaticAndFuntionStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abtract/abtract.iml" filepath="$PROJECT_DIR$/abtract/abtract.iml" />
+    </modules>
+  </component>
+</project>
